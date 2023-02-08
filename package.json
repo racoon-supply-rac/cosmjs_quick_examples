@@ -1,0 +1,12 @@
+{
+  "name": "cosmjs-example",
+  "version": "0.1.0",
+  "description": "Examples using CosmJS",
+  "main": "main.js",
+  "author": "Racoon Supply",
+  "dependencies": {
+    "@cosmjs/cosmwasm-stargate": "^0.28.0",
+    "@cosmjs/stargate": "^0.28.0",
+    "dotenv": "^16.0.3"
+  }
+}
